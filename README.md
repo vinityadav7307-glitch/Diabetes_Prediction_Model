@@ -3,7 +3,11 @@
 This project predicts whether a person is diabetic or not using machine learning techniques.
 
 ## Dataset
-PIMA Indians Diabetes Dataset
+PIMA Indians Diabetes Dataset  
+Source: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database  
+
+The dataset file (diabetes.csv) is included in this repository.
+
 
 ## Features Used
 - Pregnancies

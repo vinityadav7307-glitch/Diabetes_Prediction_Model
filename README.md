@@ -43,5 +43,9 @@ Support Vector Machine (SVM)
 ## Output
 Model predicts whether the person is diabetic or not.
 
+Note: If the notebook does not render properly on GitHub,
+please view it using https://nbviewer.org
+
+
 ## Author
 Vinit Yadav
